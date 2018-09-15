@@ -68,6 +68,6 @@ client.guildDB = new Enmap({
     })
 });
 
-client.login("NDYyNjYzODE5MTY0OTA5NTY4.Dm1rPQ.ZNligMW435uEcWrI1Td7Eb4hx_c")
+client.login("token removed...)
     .then(() => log.log('[Discord] Connecté au WebSocket !'))
     .catch(console.error);
