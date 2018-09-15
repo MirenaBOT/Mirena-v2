@@ -1,0 +1,28 @@
+{
+  "name": "mirena-v2",
+  "version": "2.0.0",
+  "description": "",
+  "main": "mirena.js",
+  "scripts": {
+    "test": "node mirena.js"
+  },
+  "author": "Kévin",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.0.11",
+    "enmap-level": "^2.1.0",
+    "figlet": "^1.2.0",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "humanize-duration": "^3.15.1",
+    "mathjs": "^5.1.1",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "os": "^0.1.1",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "superagent": "^3.8.3",
+    "weather-js": "^2.0.0"
+  }
+}
